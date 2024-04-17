@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/FrontElvin/NodeRating/issues"
   },
-  "homepage": "https://github.com/FrontElvin/NodeRating#readme"
+  "homepage": "https://github.com/FrontElvin/NodeRating#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
